@@ -48,8 +48,10 @@ a.add_tc(n)
 n = input('Telefone Residencial: ')
 a.add_tr(n)
 
-CelularCeluDigite seu telefone car
-n = incelt('
+n = input('Telefone celular: ')
+a.add_cel(n)
 
 n = input('Digite seu email: ')
 a.add_em(n)
+
+#matheusfranca
